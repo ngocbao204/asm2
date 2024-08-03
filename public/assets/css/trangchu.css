@@ -1,0 +1,15 @@
+.checkout-container {
+  margin-top: 20px;
+}
+.product-summary img {
+  max-width: 100px;
+  border-radius: 8px;
+}
+.product-summary .product-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.product-summary .product-details {
+  margin-left: 15px;
+}
